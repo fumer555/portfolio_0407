@@ -1,0 +1,17 @@
+.env/
+__pycache__/
+data/large_data/
+
+*.txt
+*.wav
+*.mp3
+!requirements.txt
+
+
+*.png
+*.zip
+ffmpeg
+ffmpeg.exe
+
+p
+

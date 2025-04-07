@@ -1,0 +1,164 @@
+[
+  {
+    "first_name": "Alexey",
+    "last_name": "Gerstmann",
+    "student_id": "260655647",
+    "question1_points": 2,
+    "question2_points": 5,
+    "question3_points": 6,
+    "question4_points": 8
+  },
+  {
+    "first_name": "Maya",
+    "last_name": "Greshake",
+    "student_id": "201855149",
+    "question1_points": 4,
+    "question2_points": 6,
+    "question3_points": 9,
+    "question4_points": 8
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "123456",
+    "translation_points": 10,
+    "induction_points": 10,
+    "interview_points": 10,
+    "OOP_points": 10
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "211753456",
+    "translation_points": 6,
+    "induction_points": 3,
+    "interview_points": 4,
+    "OOP_points": 8
+  },
+  {
+    "first_name": "Felix",
+    "last_name": "Jules",
+    "student_id": "231142914",
+    "translation_points": 6,
+    "induction_points": 5,
+    "interview_points": 4,
+    "OOP_points": 6
+  },
+  {
+    "first_name": "Suria",
+    "last_name": "S",
+    "student_id": "U2120940",
+    "translation_points": 6,
+    "induction_points": 7,
+    "interview_points": 9,
+    "OOP_points": 10
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "202130054",
+    "translation_points": 10,
+    "induction_points": 10,
+    "interview_points": 10,
+    "OOP_points": 10
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "12345678",
+    "translation_points": 10,
+    "induction_points": 15,
+    "interview_points": 8,
+    "OOP_points": 12
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "A123456",
+    "translation_points": 18,
+    "induction_points": 15,
+    "interview_points": 20,
+    "OOP_points": 17
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "123456789",
+    "translation_points": 75,
+    "induction_points": 80,
+    "interview_points": 85,
+    "OOP_points": 90
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "123456",
+    "translation_points": 80,
+    "induction_points": 75,
+    "interview_points": 85,
+    "OOP_points": 90
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "123456",
+    "translation_points": 35,
+    "induction_points": 40,
+    "interview_points": 38,
+    "OOP_points": 42
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Chen",
+    "student_id": "20231001",
+    "translation_points": 18,
+    "induction_points": 15,
+    "interview_points": 20,
+    "OOP_points": 22
+  },
+  {
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "student_id": "20230301",
+    "translation_points": 8,
+    "induction_points": 7,
+    "interview_points": 9,
+    "OOP_points": 10
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "student_id": "123456",
+    "translation_points": 15,
+    "induction_points": 18,
+    "interview_points": 20,
+    "OOP_points": 22
+  },
+  {
+    "first_name": "Testy",
+    "last_name": "McTestface",
+    "student_id": "241764534",
+    "translation_points": 6,
+    "induction_points": 8,
+    "interview_points": 7,
+    "OOP_points": 9
+  },
+  {
+    "first_name": "",
+    "last_name": "Li",
+    "student_id": "261114514",
+    "translation_points": 6,
+    "induction_points": 5,
+    "interview_points": 7,
+    "OOP_points": 4
+  },
+  {
+    "first_name": "Feifei",
+    "last_name": "Li",
+    "student_id": "281114514",
+    "translation_points": 6,
+    "induction_points": 5,
+    "interview_points": 3,
+    "OOP_points": 7
+  }
+]
