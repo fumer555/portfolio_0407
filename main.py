@@ -3,7 +3,7 @@ from win_press_recording_ import AudioRecorder
 from audio2word import transcribe_audio
 from conversation_psy import conversation
 from set_env import set_env
-from convert_openai_tts1 import play_chinese, play_english
+from convert_openai_tts1 import play_english
 from find_symptom import find_most_relevant_symptom
 import time
 
